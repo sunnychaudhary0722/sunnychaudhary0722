@@ -15,7 +15,7 @@
 
 - Seeking Master's (MS) research opportunities and Graduate Research Assistant (GRA) positions.
 
-- Portfolio: https://portfolio-iofaempk1-sunny-chaudharys-projects-55c351f2.vercel.app/
+- Portfolio: https://sites.google.com/view/sunnyportfolio1/home?authuser=0
 
 - Email: **chaudharysunny532@gmail.com**
 
