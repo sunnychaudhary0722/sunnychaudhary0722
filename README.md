@@ -11,7 +11,7 @@
 
 - My projects focus on Machine Learning, Computer Vision, Data Engineering, Cloud Computing, and AI-powered applications.
 
-- Portfolio: https://portfolio-iofaempk1-sunny-chaudharys-projects-55c351f2.vercel.app/
+- Portfolio: https://sites.google.com/view/sunnyportfolio1/home?authuser=0
 
 - Ask me about Python, SQL, Machine Learning, Data Engineering, ETL Pipelines, AWS, RAG, and AI.
 
