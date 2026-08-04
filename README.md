@@ -1,28 +1,28 @@
 <h1 align="center">Hi, I'm Sunny Chaudhary</h1>
-<h3 align="center">Aspiring Graduate Researcher in AI, Responsible AI, and Data Engineering</h3>
+<h3 align="center">Aspiring MS Researcher | AI for Cybersecurity | Trustworthy Machine Learning | Intelligent Systems</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sunnychaudhary0722&label=Profile%20views&color=0e75b6&style=flat" alt="sunnychaudhary0722" />
 </p>
 
-- I’m a B.Tech graduate in Computer Science and Engineering with interests in Artificial Intelligence, Responsible AI, Data Engineering, and Intelligent Systems.
+- B.Tech graduate in Computer Science and Engineering from SRM Institute of Science and Technology (CGPA: 9.03/10).
 
-- I’m currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Multi-Agent AI Systems, Privacy-Preserving AI, and modern data engineering frameworks.
+- My research interests include AI for Cybersecurity, Trustworthy Machine Learning, Adversarial Machine Learning, Large Language Models (LLMs), and Intelligent Systems.
 
-- My projects focus on Machine Learning, Computer Vision, Data Engineering, Cloud Computing, and AI-powered applications.
+- Experienced in Machine Learning, Computer Vision, Natural Language Processing, Cloud Computing, and Data Engineering through research, internships, and hands-on projects.
 
-- Portfolio: https://sites.google.com/view/sunnyportfolio1/home?authuser=0
+- Currently exploring AI-enhanced cybersecurity, secure intelligent systems, Retrieval-Augmented Generation (RAG), and Multi-Agent AI Systems.
 
-- Ask me about Python, SQL, Machine Learning, Data Engineering, ETL Pipelines, AWS, RAG, and AI.
+- Seeking Master's (MS) research opportunities and Graduate Research Assistant (GRA) positions.
 
-- Email: chaudharysunny532@gmail.com
+- Portfolio: https://portfolio-iofaempk1-sunny-chaudharys-projects-55c351f2.vercel.app/
 
-- Currently seeking Master's (MS) research opportunities and Graduate Research Assistant (GRA) positions in AI, Responsible AI, and Intelligent Systems.
+- Email: **chaudharysunny532@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/sunny-chaudhary-5a11a824b/" target="blank">
+<a href="https://linkedin.com/in/sunny-chaudhary-5a11a824b/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -30,6 +30,7 @@
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -77,4 +78,5 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>
+
 </p>
