@@ -13,7 +13,7 @@
 
 - Currently exploring AI-enhanced cybersecurity, secure intelligent systems, Retrieval-Augmented Generation (RAG), and Multi-Agent AI Systems.
 
-- Seeking Master's (MS) research opportunities and Graduate Research Assistant (GRA) positions.
+- Seeking Master's (MS) / PhD research opportunities and Graduate Research Assistant (GRA) positions.
 
 - Portfolio: https://sites.google.com/view/sunnyportfolio1/home?authuser=0
 
