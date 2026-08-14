@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sunny Chaudhary</h1>
-<h3 align="center">Aspiring MS Researcher | AI/ML | Data-Driven Modeling | Public Health AI | Human Behavior</h3>
+<h3 align="center">Aspiring MS Researcher | AI/ML | Data-Driven Modeling | Human Behavior</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sunnychaudhary0722&label=Profile%20views&color=0e75b6&style=flat" alt="sunnychaudhary0722" />
@@ -7,13 +7,11 @@
 
 - B.Tech graduate in Computer Science and Engineering from SRM Institute of Science and Technology (CGPA: 9.03/10).
 
-- My research interests include Artificial Intelligence, Machine Learning, Data-Driven Modeling, Public Health AI, Human Behavior, Multimodal AI, and Computer Vision.
+- My research interests include Artificial Intelligence, Machine Learning, Data-Driven Modeling, Human Behavior, Multimodal AI, and Computer Vision.
 
 - Experienced in applying Machine Learning, Computer Vision, Natural Language Processing, and Data Engineering to healthcare, human-centered, and environmental problems through research, internships, and hands-on projects.
 
 - Research experience includes maternal health risk prediction, multimodal workplace fatigue analysis, and long-term analysis of environmental changes using satellite data.
-
-- Currently interested in AI-driven public health research, causal modeling, biomarker analysis, health-related behavioral analysis, and data-driven approaches for understanding complex real-world problems.
 
 - Seeking Master's (MS) research opportunities and Graduate Research Assistant (GRA) positions.
 
