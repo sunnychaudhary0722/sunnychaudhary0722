@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sunny Chaudhary</h1>
-<h3 align="center">Aspiring MS Researcher | AI for Cybersecurity | Trustworthy Machine Learning | Intelligent Systems</h3>
+<h3 align="center">Aspiring MS Researcher | AI/ML | Data-Driven Modeling | Public Health AI | Human Behavior</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sunnychaudhary0722&label=Profile%20views&color=0e75b6&style=flat" alt="sunnychaudhary0722" />
@@ -7,13 +7,15 @@
 
 - B.Tech graduate in Computer Science and Engineering from SRM Institute of Science and Technology (CGPA: 9.03/10).
 
-- My research interests include AI for Cybersecurity, Trustworthy Machine Learning, Adversarial Machine Learning, Large Language Models (LLMs), and Intelligent Systems.
+- My research interests include Artificial Intelligence, Machine Learning, Data-Driven Modeling, Public Health AI, Human Behavior, Multimodal AI, and Computer Vision.
 
-- Experienced in Machine Learning, Computer Vision, Natural Language Processing, Cloud Computing, and Data Engineering through research, internships, and hands-on projects.
+- Experienced in applying Machine Learning, Computer Vision, Natural Language Processing, and Data Engineering to healthcare, human-centered, and environmental problems through research, internships, and hands-on projects.
 
-- Currently exploring AI-enhanced cybersecurity, secure intelligent systems, Retrieval-Augmented Generation (RAG), and Multi-Agent AI Systems.
+- Research experience includes maternal health risk prediction, multimodal workplace fatigue analysis, and long-term analysis of environmental changes using satellite data.
 
-- Seeking Master's (MS) / PhD research opportunities and Graduate Research Assistant (GRA) positions.
+- Currently interested in AI-driven public health research, causal modeling, biomarker analysis, health-related behavioral analysis, and data-driven approaches for understanding complex real-world problems.
+
+- Seeking Master's (MS) research opportunities and Graduate Research Assistant (GRA) positions.
 
 - Portfolio: https://sites.google.com/view/sunnyportfolio1/home?authuser=0
 
@@ -64,7 +66,7 @@
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
