@@ -1,1 +1,1 @@
-Sometime talk to computer
+Sometime, I talk to Computer
